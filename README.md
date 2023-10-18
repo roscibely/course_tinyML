@@ -32,6 +32,7 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 ### Material de apoio
 
 * [Curso TinyML](https://www.coursera.org/learn/introduction-to-embedded-machine-learning?action=enroll)
+* [Arduino Nano 33 BLE Sense](https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/arduino-nano-33-ble-sense#connecting-an-off-the-shelf-ov7675-camera-module)
 
 
 ---

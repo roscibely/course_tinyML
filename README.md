@@ -55,6 +55,14 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 
 ### Módulo 4: Implantação de modelos
 
+Este módulo aborda as etapas para implantar um modelo de machine learning treinado no _Edge Impulse_ em uma placa Arduino. 
+
+* Objetivos 
+    - Forneça exemplos de como o aprendizado de máquina embarcado pode ser usado para resolver problemas (onde outras formas de aprendizado de máquina seriam limitadas ou inadequadas);
+    - Descrever os desafios associados à execução de algoritmos de aprendizado de máquina em sistemas embarcados 
+    - Descreva amplamente o que acontece durante o treinamento do modelo de aprendizado de máquina;
+    - Demonstrar a capacidade de realizar inferência em um sistema embarcado para resolver um problema.
+
 ### Módulo 5: Prática Detecção de anomalia
 
 ### Módulo 6: Classificação de imagens com aprendizado profundo

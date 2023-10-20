@@ -31,22 +31,38 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 
 ## Cronograma de Estudos 
 
-* [Módulo 1: Machine Learning embarcado]()
-* [Módulo 2: Iniciando com Deep Learning]()
-* [Módulo 3: Fluxo de trabalho com Machine Learning]()
-* [Módulo 4: Implantação de modelos]()
-* [Módulo 5: Prática Detecção de anomalia]()
-* [Módulo 6: Classificação de imagens com aprendizado profundo]()
-* [Módulo 7: Detecção de objetos e segmentação de imagens]()
+* [Módulo 1: Machine Learning embarcado](#módulo-1-machine-learning-embarcado)
+* [Módulo 2: Iniciando com Deep Learning](#módulo-2-iniciando-com-deep-learning)
+* [Módulo 3: Fluxo de trabalho com Machine Learning](#módulo-3-fluxo-de-trabalho-com-machine-learning)
+* [Módulo 4: Implantação de modelos](#módulo-4-implantação-de-modelos)
+* [Módulo 5: Prática Detecção de anomalia](#módulo-5-prática-detecção-de-anomalia)
+* [Módulo 6: Classificação de imagens com aprendizado profundo](#módulo-6-classificação-de-imagens-com-aprendizado-profundo)
+* [Módulo 7: Detecção de objetos e segmentação de imagens](#módulo-7-detecção-de-objetos-e-segmentação-de-imagens)
 
 ### Material de apoio
 
 * [Curso TinyML](https://www.coursera.org/learn/introduction-to-embedded-machine-learning?action=enroll)
 * [Arduino Nano 33 BLE Sense](https://docs.edgeimpulse.com/docs/development-platforms/officially-supported-mcu-targets/arduino-nano-33-ble-sense#connecting-an-off-the-shelf-ov7675-camera-module)
 
+--- 
+
+
+### Módulo 1: Machine Learning Embarcado
+
+### Módulo 2: Iniciando com Deep Learning
+
+### Módulo 3: Fluxo de trabalho com Machine Learning
+
+### Módulo 4: Implantação de modelos
+
+### Módulo 5: Prática Detecção de anomalia
+
+### Módulo 6: Classificação de imagens com aprendizado profundo
+
+### Módulo 7: Detecção de objetos e segmentação de imagens
 
 ---
 <div>
-  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/root/ufersa.jpg" width="700" height="250">
+  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/root/ufersa.jpg" width="900" height="250">
 </div>
 <i>UFERSA - Campus Pau dos Ferros</i>

@@ -29,6 +29,16 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 
 * Os alunos precisarão instalar o [Arduino IDE](https://www.arduino.cc/en/software) mais recente.
 
+## Cronograma de Estudos 
+
+* [Módulo 1: Machine Learning embarcado]()
+* [Módulo 2: Iniciando com Deep Learning]()
+* [Módulo 3: Fluxo de trabalho com Machine Learning]()
+* [Módulo 4: Implantação de modelos]()
+* [Módulo 5: Prática Detecção de anomalia]()
+* [Módulo 6: Classificação de imagens com aprendizado profundo]()
+* [Módulo 7: Detecção de objetos e segmentação de imagens]()
+
 ### Material de apoio
 
 * [Curso TinyML](https://www.coursera.org/learn/introduction-to-embedded-machine-learning?action=enroll)

@@ -48,6 +48,18 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 
 ### Módulo 1: Machine Learning Embarcado
 
+Este módulo fornece uma visão geral do aprendizado de máquina e como ele pode ser usado para resolver problemas. Ele também introduz a ideia de executar algoritmos de aprendizado de máquina em dispositivos com recursos limitados, como microcontroladores. 
+
+##### Material
+
+
+| ID | Descrição | Links | Fonte |
+|----|-------------|:-----:|:-----------:|
+| 1.1.1 | O que é machine learning | [video](https://www.youtube.com/watch?v=RDGCGho5oaQ&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=3) [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.1.what-is-machine-learning.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 1.1.2 | Machine learning em sistemas embarcados | [video](https://www.youtube.com/watch?v=Thg_EK9xxVk&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=6) [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.2.machine-learning-on-embedded-devices.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 1.1.3 | What is tiny machine learning | [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.3.what-is-tiny-machine-learning.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+
+
 ### Módulo 2: Iniciando com Deep Learning
 
 ### Módulo 3: Fluxo de trabalho com Machine Learning

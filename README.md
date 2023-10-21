@@ -35,9 +35,8 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 * [Módulo 2: Iniciando com Deep Learning](#módulo-2-iniciando-com-deep-learning)
 * [Módulo 3: Fluxo de trabalho com Machine Learning](#módulo-3-fluxo-de-trabalho-com-machine-learning)
 * [Módulo 4: Implantação de modelos](#módulo-4-implantação-de-modelos)
-* [Módulo 5: Prática Detecção de anomalia](#módulo-5-prática-detecção-de-anomalia)
-* [Módulo 6: Classificação de imagens com aprendizado profundo](#módulo-6-classificação-de-imagens-com-aprendizado-profundo)
-* [Módulo 7: Detecção de objetos e segmentação de imagens](#módulo-7-detecção-de-objetos-e-segmentação-de-imagens)
+* [Módulo 5: Classificação de imagens com aprendizado profundo](#módulo-5-classificação-de-imagens-com-aprendizado-profundo)
+* [Módulo 6: Detecção de objetos e segmentação de imagens](#módulo-6-detecção-de-objetos-e-segmentação-de-imagens)
 
 ### Material de apoio
 
@@ -48,6 +47,18 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 
 
 ### Módulo 1: Machine Learning Embarcado
+
+Este módulo fornece uma visão geral do aprendizado de máquina e como ele pode ser usado para resolver problemas. Ele também introduz a ideia de executar algoritmos de aprendizado de máquina em dispositivos com recursos limitados, como microcontroladores. 
+
+##### Material
+
+
+| ID | Descrição | Links | Fonte |
+|----|-------------|:-----:|:-----------:|
+| 1.1.1 | O que é machine learning | [video](https://www.youtube.com/watch?v=RDGCGho5oaQ&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=3) [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.1.what-is-machine-learning.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 1.1.2 | Machine learning em sistemas embarcados | [video](https://www.youtube.com/watch?v=Thg_EK9xxVk&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=6) [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.2.machine-learning-on-embedded-devices.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 1.1.3 | O que é tiny machine learning | [slides](Module%201%20-%20Introduction%20to%20Machine%20Learning/1.1.3.what-is-tiny-machine-learning.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+
 
 ### Módulo 2: Iniciando com Deep Learning
 
@@ -71,14 +82,12 @@ Este módulo aborda as etapas para implantar um modelo de machine learning trein
 
 | ID | Descrição | Links | Fonte |
 |----|-------------|:-----:|:-----------:|
-| 4.1.1 | Sistemas embarcados | [slides](Module%204%20-%20Model%20Deployment/4.2.1.embedded-systems.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.2 | Diversidade de sistemas embarcados | [doc](Module%204%20-%20Model%20Deployment/4.2.2.diversity-of-embedded-systems.3.docx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.3 | Hardware de computação embarcado| [slides](Module%204%20-%20Model%20Deployment/4.2.3.embedded-computing-hardware.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.4 | Microcontroladores | [doc](Module%204%20-%20Model%20Deployment/4.2.4.embedded-microcontrollers.3.docx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.5 | TinyML kit peripherals | [doc](Module%204%20-%20Model%20Deployment/4.2.5.tinyml-kit-peripherals.3.docx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.6 | TinyML kit peripherals | [slides](Module%204%20-%20Model%20Deployment/4.2.6.tinyml-kit-peripherals.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.7 | Arduino core, frameworks, mbedOS, and bare metal | [doc](Module%204%20-%20Model%20Deployment/4.2.7.arduino-core-frameworks-mbedos-and-bare-metal.3.docx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
-| 4.1.8 | Software de ML embarcados | [slides](Module%204%20-%20Model%20Deployment/4.2.8.embedded-ml-software.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.1 | Sistemas embarcados | [slides](Module%204%20-%20Model%20Deployment/4.2.1.embedded-systems.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.2 | Arduino Nano 33 BLE Sense | [doc](Module%204%20-%20Model%20Deployment/4.2.2.diversity-of-embedded-systems.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.3 | Hardware de computação embarcado| [slides](Module%204%20-%20Model%20Deployment/4.2.3.embedded-computing-hardware.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.4 | Microcontroladores | [doc](Module%204%20-%20Model%20Deployment/4.2.4.embedded-microcontrollers.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.5 | TinyML kit peripherals | [slides](Module%204%20-%20Model%20Deployment/4.2.6.tinyml-kit-peripherals.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 4.1.6 | Software de ML embarcados | [slides](Module%204%20-%20Model%20Deployment/4.2.8.embedded-ml-software.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
 
 #### Implantando um modelo em uma placa Arduino
 
@@ -86,17 +95,16 @@ Este módulo aborda as etapas para implantar um modelo de machine learning trein
 
 | ID | Descrição | Links | Fonte |
 |----|-------------|:-----:|:-----------:|
-| 4.2.1 | Usando um modelo para inferência | [video](https://www.youtube.com/watch?v=UKeZFIqMk2U&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=18) [slides](Module%204%20-%20Model%20Deployment/4.3.1.using-a-model-for-inference.1.pptx?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 4.2.1 | Usando um modelo para inferência | [video](https://www.youtube.com/watch?v=UKeZFIqMk2U&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=18) [slides](Module%204%20-%20Model%20Deployment/4.3.1.using-a-model-for-inference.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
 | 4.2.2 | Testando inferência com um smartphone | [video](https://www.youtube.com/watch?v=OWakb-oDAOg&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=19) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
-| 4.2.3 | Implantar modelo no Arduino | [video](https://www.youtube.com/watch?v=uUh61R8Hu0o&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=20) [slides](Module%204%20-%20Model%20Deployment/4.3.3.deploy-model-to-arduino.1.pptx?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 4.2.3 | Implantar modelo no Arduino | [video](https://www.youtube.com/watch?v=uUh61R8Hu0o&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=20) [slides](Module%204%20-%20Model%20Deployment/4.3.3.deploy-model-to-arduino.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
 | 4.2.4 | Implantar modelo no Arduino | [tutorial](https://docs.edgeimpulse.com/docs/deployment/running-your-impulse-arduino) | |
 
 
-### Módulo 5: Prática Detecção de anomalia
 
-### Módulo 6: Classificação de imagens com aprendizado profundo
+### Módulo 5: Classificação de imagens com aprendizado profundo
 
-### Módulo 7: Detecção de objetos e segmentação de imagens
+### Módulo 6: Detecção de objetos e segmentação de imagens
 
 
 ### Fontes

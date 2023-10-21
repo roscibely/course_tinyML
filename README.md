@@ -98,6 +98,18 @@ Este módulo aborda as etapas para implantar um modelo de machine learning trein
 
 ### Módulo 7: Detecção de objetos e segmentação de imagens
 
+
+### Fontes
+
+<!-- omit in toc -->
+ [1] Slides and written material for "[Introduction to Embedded Machine Learning](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)" by [Edge Impulse](https://edgeimpulse.com/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<!-- omit in toc -->
+ [2] Slides and written material for "[Computer Vision with Embedded Machine Learning](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)" by [Edge Impulse](https://edgeimpulse.com/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<!-- omit in toc -->
+ [3] Slides and written material for "[TinyML Courseware](https://github.com/tinyMLx/courseware)" by Prof. Vijay Janapa Reddi of [Harvard University](http://tinyml.seas.harvard.edu/) is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ---
 <div>
   <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/root/ufersa.jpg" width="900" height="250">

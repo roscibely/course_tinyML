@@ -62,6 +62,16 @@ Este módulo fornece uma visão geral do aprendizado de máquina e como ele pode
 
 ### Módulo 2: Iniciando com Deep Learning
 
+Este módulo fornece uma visão geral das redes neurais e como elas podem ser usadas para fazer previsões. 
+
+| ID | Description | Links | Attribution |
+|----|-------------|:-----:|:-----------:|
+| 2.1.1 | O paradigma do aprendizado de máquina | [slides](Module%202%20-%20Getting%20Started%20with%20Deep%20Learning/2.1.1.the-machine-learning-paradigm.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 2.1.2 | Pensando na perda | [slides](Module%202%20-%20Getting%20Started%20with%20Deep%20Learning/2.1.3.thinking-about-loss.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 2.1.3 | Minimizando perdas | [slides](Module%202%20-%20Getting%20Started%20with%20Deep%20Learning/2.1.4.minimizing-loss.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 2.1.5 | Primeira rede neural | [slides](Module%202%20-%20Getting%20Started%20with%20Deep%20Learning/2.1.5.first-neural-network.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+
+
 ### Módulo 3: Fluxo de trabalho com Machine Learning
 
 ### Módulo 4: Implantação de modelos
@@ -120,6 +130,6 @@ Este módulo aborda as etapas para implantar um modelo de machine learning trein
 
 ---
 <div>
-  <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/root/ufersa.jpg" width="900" height="250">
+  <img src="https://raw.githubusercontent.com/roscibely/algorithms-and-data-structure/develop/root/ufersa.jpg" width="900" height="250">
 </div>
 <i>UFERSA - Campus Pau dos Ferros</i>

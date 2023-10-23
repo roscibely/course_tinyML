@@ -142,7 +142,7 @@ Este módulo apresenta o conceito de classificação de imagens, por que ela é 
 #### Classificação de imagens 
 
 ##### Material
-| ID | Description | Links | Attribution |
+| ID | Descrição | Links | Fonte |
 |----|-------------|:-----:|:-----------:|
 | 5.1.1 | O que é visão computacional? | [video](https://www.youtube.com/watch?v=fK8elevliKI&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=3) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
 | 5.1.2 | Visão geral das imagens digitais| [video](https://www.youtube.com/watch?v=BdLJ9Lk1I1M&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=4)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
@@ -156,7 +156,7 @@ Este módulo apresenta o conceito de classificação de imagens, por que ela é 
 
 ##### Material
 
-| ID | Description | Links | Attribution |
+| ID | Descrição | Links | Fonte |
 |----|-------------|:-----:|:-----------:|
 | 5.2.1 | Convolução de imagem | [video](https://www.youtube.com/watch?v=glSdYcpP_v8&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=14)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
 | 5.2.2 | Camada de pooling | [video](https://www.youtube.com/watch?v=E9TNa_6Askc&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=15)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
@@ -170,7 +170,7 @@ Este módulo apresenta o conceito de classificação de imagens, por que ela é 
 
 ##### Lecture Material
 
-| ID | Description | Links | Attribution |
+| ID | Descrição | Links | Fonte |
 |----|-------------|:-----:|:-----------:|
 | 5.3.1 | Visualizações da CNN | [video](https://www.youtube.com/watch?v=TmOgYgY0fTc&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=18)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
 | 5.3.2 | Data augmentation | [video](https://www.youtube.com/watch?v=AB4dLvW5mus&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=19)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |

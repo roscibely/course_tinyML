@@ -36,7 +36,7 @@ Os alunos precisarão de um computador e acesso à Internet para realizar treina
 * [Módulo 3: Fluxo de trabalho com Machine Learning](#módulo-3-fluxo-de-trabalho-com-machine-learning)
 * [Módulo 4: Implantação de modelos](#módulo-4-implantação-de-modelos)
 * [Módulo 5: Classificação de imagens com aprendizado profundo](#módulo-5-classificação-de-imagens-com-aprendizado-profundo)
-* [Módulo 6: Detecção de objetos e segmentação de imagens](#módulo-6-detecção-de-objetos-e-segmentação-de-imagens)
+
 
 ### Material de apoio
 
@@ -137,7 +137,49 @@ Este módulo aborda as etapas para implantar um modelo de machine learning trein
 
 ### Módulo 5: Classificação de imagens com aprendizado profundo
 
-### Módulo 6: Detecção de objetos e segmentação de imagens
+Este módulo apresenta o conceito de classificação de imagens, por que ela é importante no aprendizado de máquina e como pode ser usada para resolver problemas. São abordadas operações de convolução e pooling, que formam os blocos de construção para redes neurais convolucionais (CNNs).
+
+#### Classificação de imagens 
+
+##### Material
+| ID | Description | Links | Attribution |
+|----|-------------|:-----:|:-----------:|
+| 5.1.1 | O que é visão computacional? | [video](https://www.youtube.com/watch?v=fK8elevliKI&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=3) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.1.2 | Visão geral das imagens digitais| [video](https://www.youtube.com/watch?v=BdLJ9Lk1I1M&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=4)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.1.3 | Coleta de conjunto de dados | [video](https://www.youtube.com/watch?v=uH9-Nhe8XGw&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=5) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.1.4 | Visão geral da classificação de imagens | [video](https://www.youtube.com/watch?v=c20ditpjGjo&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=6) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.1.5 | Treinando um classificador de imagens com Keras| [video](https://www.youtube.com/watch?v=ygzvKFgUUTA&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=8) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+
+
+
+#### Convolutional Neural Network (CNN)
+
+##### Material
+
+| ID | Description | Links | Attribution |
+|----|-------------|:-----:|:-----------:|
+| 5.2.1 | Convolução de imagem | [video](https://www.youtube.com/watch?v=glSdYcpP_v8&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=14)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.2.2 | Camada de pooling | [video](https://www.youtube.com/watch?v=E9TNa_6Askc&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=15)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.2.3 | Rede neural convolucional | [video](https://www.youtube.com/watch?v=30ikzV8Fi-0&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=16) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.2.4 | CNN no keras | [slides](Module%206%20-%20Image%20Classification%20with%20Deep%20Learning/6.2.4.cnn-in-keras.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 5.2.5 | Treinando uma CNN no Edge Impulse| [video](https://www.youtube.com/watch?v=fihp_CqlcZU&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=17) [doc](Module%206%20-%20Image%20Classification%20with%20Deep%20Learning/6.2.6.training-a-cnn-in-edge-impulse.2.docx?raw=true) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+
+
+
+#### Analisando CNNs, Data Augmentation e aprendizagem por transferência (_transfer learning_)
+
+##### Lecture Material
+
+| ID | Description | Links | Attribution |
+|----|-------------|:-----:|:-----------:|
+| 5.3.1 | Visualizações da CNN | [video](https://www.youtube.com/watch?v=TmOgYgY0fTc&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=18)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.3.2 | Data augmentation | [video](https://www.youtube.com/watch?v=AB4dLvW5mus&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=19)  | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.3.3 | Evitando overfitting com aumento de dados | [slides](Module%206%20-%20Image%20Classification%20with%20Deep%20Learning/6.3.4.avoiding-overfitting-with-data-augmentation.3.pptx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 5.3.4 | Explorando funções de perda e otimizadores | [doc](Module%206%20-%20Image%20Classification%20with%20Deep%20Learning/6.3.6.exploring-loss-functions-and-optimizers.3.docx?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 5.3.5 | Transferir aprendizagem e MobileNet | [video](https://www.youtube.com/watch?v=93eczumOpx8&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=20) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 5.3.6 | Transfer learning com Edge Impulse | [video](https://www.youtube.com/watch?v=93eczumOpx8&list=PL7VEa1KauMQqQw7duQEB6GSJwDS06dtKU&index=20) [slides](Module%206%20-%20Image%20Classification%20with%20Deep%20Learning/6.3.7.transfer-learning-and-mobilenet.2.pptx?raw=true) | [[2]](#2-slides-and-written-material-for-computer-vision-with-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+
+
 
 
 ### Fontes

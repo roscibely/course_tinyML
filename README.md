@@ -74,6 +74,29 @@ Este módulo fornece uma visão geral das redes neurais e como elas podem ser us
 
 ### Módulo 3: Fluxo de trabalho com Machine Learning
 
+Neste módulo, os alunos compreenderão como os dados são coletados e usados para treinar um modelo de aprendizado de máquina. Eles terão a oportunidade de coletar seu próprio conjunto de dados, carregá-lo no Edge Impulse e treinar um modelo usando a interface gráfica. A partir daí, eles aprenderão como avaliar um modelo usando uma matriz de confusão para calcular precisão, recall, exatidão e pontuações F1.
+
+#### Material
+
+
+| ID | Descrição | Links | Fonte |
+|----|-------------|:-----:|:-----------:|
+| 3.1.1 | Aplicações TinyML | [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.1.1.tinyml-applications.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 3.1.3 | Ciclo de vida do Machine learning  | [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.1.3.machine-learning-lifecycle.3.pdf?raw=true) | [[3]](#3-slides-and-written-material-for-tinyml-courseware-by-harvard-university-is-licensed-under-cc-by-nc-sa-40) |
+| 3.1.3 | Coletando dados com Edge Impulse | [video](https://www.youtube.com/watch?v=IiJKqHRRuD4&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=9) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.2.6.data-collection-with-edge-impulse.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+
+#### Treinando e validando o modelo de ML 
+
+
+| ID | Descrição | Links | Fonte |
+|----|-------------|:-----:|:-----------:|
+| 3.2.1 | Extração de recursos (_features_) | [video](https://www.youtube.com/watch?v=oDFxBjcvrQU&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=10) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.3.1.feature-extraction-from-motion-data.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 3.2.2 | Seleção de _features_ com Edge Impulse | [video](https://www.youtube.com/watch?v=xQ3GBkYhXcU&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=11) [tutorial](https://docs.edgeimpulse.com/docs/tutorials/continuous-motion-recognition) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 3.2.3 | Machine learning pipeline | [video](https://www.youtube.com/watch?v=Cf1SL-EeQOQ&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=12) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.3.3.machine-learning-pipeline.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 3.2.4 | Treinamento do modelo no dge impulse | [video](https://www.youtube.com/watch?v=44v2e6JktbE&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=15) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.3.4.model-training-in-edge-impulse.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 3.2.5 | How to evaluate a model | [video](https://www.youtube.com/watch?v=jUiyXCwauJA&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=16) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.3.5.how-to-evaluate-a-model.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+| 3.3.6 | Underfitting and overfitting | [video](https://www.youtube.com/watch?v=6zExT6TucZg&list=PL7VEa1KauMQqZFj_nWRfsCZNXaBbkuurG&index=17) [slides](Module%203%20-%20Machine%20Learning%20Workflow/3.3.6.underfitting-and-overfitting.1.pdf?raw=true) | [[1]](#1-slides-and-written-material-for-introduction-to-embedded-machine-learning-by-edge-impulse-is-licensed-under-cc-by-nc-sa-40) |
+
 ### Módulo 4: Implantação de modelos
 
 Este módulo aborda as etapas para implantar um modelo de machine learning treinado no _Edge Impulse_ em uma placa Arduino. 

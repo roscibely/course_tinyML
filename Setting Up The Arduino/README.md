@@ -141,7 +141,9 @@ Para resolver, adicione o caminho onde o arquivo compactado da [_Arduino CLI_](h
 # 4. Conecte o microcontrolador ao seu computador
 
 Utilize o cabo micro-USB que acompanha o Kit para fazer a conexão com o seu computador.
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://84771188-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGEgcCk4PkS5Pa6uBabld%2Fuploads%2Fgit-blob-c47c9b3fde5e9a23528f23e997f35a51c1e3be3e%2Fb302301-out.gif?alt=media">
+<div>
+  <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://84771188-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGEgcCk4PkS5Pa6uBabld%2Fuploads%2Fgit-blob-c47c9b3fde5e9a23528f23e997f35a51c1e3be3e%2Fb302301-out.gif?alt=media">
+</div>
 <i>Pressione RESET duas vezes para iniciar o Bootloader do microcontrolador</i>
 
 

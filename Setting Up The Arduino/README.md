@@ -18,9 +18,9 @@ Nesta seção, iremos aprender a configurar o [Arduino Nano 33 BLE Sense](https:
 
 ## 1. Criando uma conta no [_Edge Impulse_](https://edgeimpulse.com/)
 
-O [_Edge Impulse_](https://edgeimpulse.com/) é uma plataforma que permite que criemos (e/ou otimizemos) nossos próprios modelode de _machine learning_ visando embarcar em microcontroladores e/ou em dispositivos móveis.
+O [_Edge Impulse_](https://edgeimpulse.com/) é uma plataforma que permite que criemos (e/ou otimizemos) nossos próprios modelos de de _machine learning_ visando embarcar em microcontroladores e/ou em dispositivos móveis.
 
-Dessa forma, é imprecindível a criação de uma conta nesta plataforma para, enfim, podermos embarcar e criar nossos próprios modeos de TinyML. Caso já possua uma conta, você pode pular essa parte e ir para a [próxima](#2-instalando-o-edge-impulse-cli).
+Dessa forma, é imprecindível a criação de uma conta nesta plataforma para, enfim, podermos embarcar e criar nossos próprios algoritmos de TinyML. Caso já possua uma conta, você pode pular essa parte e ir para a [próxima](#2-instalando-o-edge-impulse-cli).
 
 ### Passo 1.1: acessando a página de cadastro
 
@@ -93,7 +93,7 @@ Você pode testar a execução do Python abrindo o seu terminal e digitando `pyt
 
 Assim como o python, o Node.js é um pré-requisito para um bom funcionamento da [_Edge Impulse CLI_](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation). Dessa forma, é importante fazer sua instalação e de suas ferramentas adicionais. Se você já tiver o Node.js e suas ferramentas instaladas, você pode ir para o [último passo](#passo-2.3-instalando-a-edge-impulse-cli) da [seção 2](#2-instalando-o-edge-impulse-cli). 
 
-Caso você não saiba como instalar o [Node.js](https://nodejs.org/en/), neste [link](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos) há um artigo do alura, em português, com um tutorial para a instalação correta em cada sistema operacional. 
+Caso você não saiba como instalar o [Node.js](https://nodejs.org/en/), neste [link](https://www.alura.com.br/artigos/como-instalar-node-js-windows-linux-macos), há um artigo do alura, em português, com um tutorial para a instalação correta em cada sistema operacional. 
 
 ### Passo 2.3: Instalando a Edge Impulse CLI
 
